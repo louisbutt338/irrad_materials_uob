@@ -11,7 +11,7 @@ Scripts to use with radiation transport codes
 
 e.g. MCNP, OpenMC, FLUKA, Geant4
 
-## rad_transport_materials
+## /rad_transport_materials
 Scripts for use with radiation transport IN MATERIALS in codes
 
 e.g. SRIM, Spectra-PKA, SDTrimSP, Iradina
