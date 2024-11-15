@@ -21,6 +21,7 @@ from pathlib import Path
 import math
 
 ################# DIRECTORY INPUTS #################
+#test
 
 image_directory = '/Users/ljb841@student.bham.ac.uk/fispact/WORKSHOP/uBB/analysis'
 
